@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Landing Page</title>
+  <style>
+    body { margin: 0; padding: 0; background-color: #000; }
+  </style>
+</head>
+<body>
+<div style="width: 1920px; height: 8298px; position: relative; background: white; overflow: hidden">
+  <div style="width: 2083px; height: 6916px; left: -52px; top: -76px; position: absolute">
+    <div style="width: 1920px; height: 1080px; left: 52px; top: 76px; position: absolute; background: #240404"></div>
+    <img style="width: 1053px; height: 672px; left: 951px; top: 185px; position: absolute" src="https://placehold.co/1053x672" />
+    <img style="width: 1053px; height: 672px; left: 0px; top: 158px; position: absolute" src="https://placehold.co/1053x672" />
+    <div style="width: 2031px; height: 6916px; left: 52px; top: 0px; position: absolute">
+      <img style="width: 780px; height: 675px; left: 570px; top: 0px; position: absolute" src="https://placehold.co/780x675" />
+      <img style="width: 780px; height: 675px; left: 570px; top: 0px; position: absolute; mix-blend-mode: soft-light" src="https://placehold.co/780x675" />
+      <img style="width: 2099px; height: 1112px; left: 90.67px; top: 60px; position: absolute" src="https://placehold.co/2099x1112" />
+      <img style="width: 1920px; height: 1320px; left: 0px; top: -75px; position: absolute" src="https://placehold.co/1920x1320" />
+      <div style="width: 969.04px; height: 178.17px; left: 474.48px; top: 153px; position: absolute">
+        <div style="left: 353.02px; top: 0px; position: absolute; color: white; font-size: 35.02px; font-family: Inter; font-weight: 700; line-height: 35.02px; word-wrap: break-word">MIENTRAS MÁS</div>
+        <div style="left: 0px; top: 37.30px; position: absolute; color: white; font-size: 119.06px; font-family: Inter; font-weight: 900; line-height: 119.06px; word-wrap: break-word">GRANDE, MEJOR</div>
+      </div>
+      <div style="width: 1920px; height: 6840px; left: 0px; top: 0px; position: absolute">
+        <img style="width: 972px; height: 622px; left: 475px; top: 329px; position: absolute" src="https://placehold.co/972x622" />
+        <img style="width: 954px; height: 556px; left: 484px; top: 338px; position: absolute" src="https://placehold.co/954x556" />
+        <div style="width: 1920px; height: 6840px; left: 0px; top: 0px; position: absolute">
+          <img style="width: 1920px; height: 6840px; left: 0px; top: 0px; position: absolute; background: white" src="https://placehold.co/1920x6840" />
+        </div>
+        <img style="width: 747px; height: 117px; left: 465px; top: 270px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/747x117" />
+        <img style="width: 747px; height: 117px; left: 465px; top: 270px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/747x117" />
+        <img style="width: 154px; height: 658px; left: 399px; top: 255px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/154x658" />
+        <img style="width: 154px; height: 658px; left: 399px; top: 255px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/154x658" />
+        <img style="width: 154px; height: 680px; left: 1369px; top: 244px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/154x680" />
+        <img style="width: 154px; height: 680px; left: 1369px; top: 244px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/154x680" />
+        <img style="width: 72px; height: 102px; left: 441px; top: 534px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/72x102" />
+        <img style="width: 67px; height: 50px; left: 829px; top: 305px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/67x50" />
+        <img style="width: 61px; height: 87px; left: 1417px; top: 462px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/61x87" />
+      </div>
+      <img style="width: 1920px; height: 362px; left: 0px; top: 794px; position: absolute; mix-blend-mode: soft-light" src="https://placehold.co/1920x362" />
+      <div style="width: 174px; height: 468px; left: 1338px; top: 549px; position: absolute">
+        <img style="width: 159px; height: 15px; left: 7px; top: 2px; position: absolute" src="https://placehold.co/159x15" />
+        <img style="width: 167px; height: 349px; left: 4px; top: 10px; position: absolute" src="https://placehold.co/167x349" />
+        <img style="width: 167px; height: 317px; left: 4px; top: 151px; position: absolute" src="https://placehold.co/167x317" />
+        <img style="width: 174px; height: 355px; left: 0px; top: 0px; position: absolute" src="https://placehold.co/174x355" />
+      </div>
+      <div style="width: 1920px; height: 6840px; left: 0px; top: 76px; position: absolute">
+        <div style="width: 1920px; height: 6840px; left: 0px; top: 0px; position: absolute">
+          <img style="width: 1920px; height: 6840px; left: 0px; top: 0px; position: absolute; background: black" src="https://placehold.co/1920x6840" />
+          <img style="width: 1920px; height: 1515px; left: 0px; top: 479px; position: absolute" src="https://placehold.co/1920x1515" />
+        </div>
+        <div style="width: 1920px; height: 6840px; left: 0px; top: 0px; position: absolute">
+          <img style="width: 1920px; height: 6840px; left: 0px; top: 0px; position: absolute; background: black" src="https://placehold.co/1920x6840" />
+          <img style="width: 1920px; height: 1828px; left: -0.33px; top: 166px; position: absolute" src="https://placehold.co/1920x1828" />
+        </div>
+        <img style="width: 1920px; height: 2126px; left: 0px; top: 28px; position: absolute" src="https://placehold.co/1920x2126" />
+      </div>
+      <div style="left: 460.14px; top: 804px; position: absolute; text-align: center"><span style="color: white; font-size: 47px; font-family: Inter; font-weight: 700; line-height: 39.60px; word-wrap: break-word">TV360 en tu Smart TV<br/></span><span style="color: #FF4B4B; font-size: 33px; font-family: Inter; font-weight: 700; line-height: 47px; word-wrap: break-word">+200 canales nacionales e internacionales </span><span style="color: #FF4B4B; font-size: 33px; font-family: Inter; font-weight: 900; line-height: 47px; word-wrap: break-word">GRATIS </span><span style="color: #FF4B4B; font-size: 33px; font-family: Inter; font-weight: 700; line-height: 47px; word-wrap: break-word">te esperan</span></div>
+      <div style="width: 646px; height: 77.03px; left: 692.67px; top: 912px; position: absolute">
+        <div style="width: 360px; height: 77.03px; left: 0px; top: 0px; position: absolute">
+          <div style="width: 242px; height: 52px; left: 51.67px; top: 1px; position: absolute; background: linear-gradient(90deg, #FF5C5C 0%, #BB1919 100%); box-shadow: 0px 0px 1px white inset"></div>
+          <div style="left: 70.67px; top: 27px; position: absolute; color: white; font-size: 19.11px; font-family: Inter; font-weight: 700; letter-spacing: 0.04px; word-wrap: break-word">Ver cómo instalarlo</div>
+          <img style="width: 14px; height: 19px; left: 259.67px; top: 18px; position: absolute" src="https://placehold.co/14x19" />
+        </div>
+        <div style="width: 154px; height: 58.86px; left: 376px; top: -2px; position: absolute">
+          <div style="width: 148px; left: 6px; top: 19px; position: absolute; color: #C0C0C0; font-size: 15px; font-family: Inter; font-weight: 700; line-height: 20.04px; word-wrap: break-word">¿Por qué en tu TV?</div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1920px; height: 2160px; left: 0px; top: 1031px; position: absolute">
+    <div style="width: 1942px; height: 3626px; left: -0.33px; top: 0px; position: absolute; background: #080000"></div>
+    <img style="width: 1920px; height: 2160px; left: 0px; top: 0px; position: absolute; mix-blend-mode: soft-light" src="https://placehold.co/1920x2160" />
+    <div style="width: 211.27px; height: 23.66px; left: 854px; top: 0px; position: absolute">
+      <div style="width: 40px; height: 2px; left: 9px; top: 8.76px; position: absolute; background: #D64746"></div>
+      <div style="left: 62.64px; top: 0px; position: absolute; color: #D64746; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; letter-spacing: 1.60px; word-wrap: break-word">PRIMER PASO</div>
+      <div style="width: 13.54px; height: 13.54px; left: 0px; top: 3.22px; position: absolute; background: #BF201F; box-shadow: 2px 3px 8px #DD6B6B inset"></div>
+    </div>
+    <div style="left: 608.79px; top: 34.44px; position: absolute; text-align: center; color: white; font-size: 91.19px; font-family: Inter; font-weight: 900; line-height: 90px; word-wrap: break-word">PON TV360<br/>EN TU SMARTV</div>
+    <div style="left: 707.67px; top: 238.08px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 500; line-height: 36px; word-wrap: break-word">Elige la marca de tu televisor y sigue los pasos:</div>
+    <div style="width: 968px; height: 1503px; left: 476.67px; top: 401px; position: absolute">
+      <div style="width: 499px; height: 461px; left: 235px; top: 17px; position: absolute; background: #161515; border-radius: 26px"></div>
+      <div style="width: 499px; height: 461px; left: -276px; top: 17px; position: absolute; background: #161515; border-radius: 26px"></div>
+      <div style="width: 499px; height: 461px; left: 746px; top: 17px; position: absolute; background: #161515; border-radius: 26px"></div>
+      <div style="width: 57px; height: 57px; left: -226px; top: 52px; position: absolute; background: #FF3937; box-shadow: 0px 0px 4px 4px rgba(255, 255, 255, 0.25) inset; border-radius: 11px"></div>
+      <div style="left: -218px; top: 45px; position: absolute; color: white; font-size: 36px; font-family: Inter; font-weight: 700; line-height: 73.01px; word-wrap: break-word">01</div>
+      <div style="left: -153px; top: 53px; position: absolute"><span style="color: white; font-size: 41px; font-family: Inter; font-weight: 900; line-height: 34px; word-wrap: break-word">ABRE<br/></span><span style="color: white; font-size: 27px; font-family: Inter; font-weight: 500; line-height: 34px; word-wrap: break-word">En tu Smart TV, abre la <br/></span><span style="color: #FF3937; font-size: 27px; font-family: Inter; font-weight: 500; line-height: 34px; word-wrap: break-word">PlayStore.</span></div>
+      <div style="width: 57px; height: 57px; left: 287px; top: 52px; position: absolute; background: #FF3937; box-shadow: 0px 0px 4px 4px rgba(255, 255, 255, 0.25) inset; border-radius: 11px"></div>
+      <div style="left: 293px; top: 45px; position: absolute; color: white; font-size: 36px; font-family: Inter; font-weight: 700; line-height: 73.01px; word-wrap: break-word">02</div>
+      <div style="left: 360px; top: 53px; position: absolute"><span style="color: white; font-size: 41px; font-family: Inter; font-weight: 900; line-height: 34px; word-wrap: break-word">BUSCA<br/></span><span style="color: white; font-size: 27px; font-family: Inter; font-weight: 500; line-height: 34px; word-wrap: break-word">En el buscador, escribe <br/></span><span style="color: #FF3937; font-size: 27px; font-family: Inter; font-weight: 500; line-height: 34px; word-wrap: break-word">TV360.</span></div>
+      <div style="width: 57px; height: 57px; left: 798px; top: 52px; position: absolute; background: #FF3937; box-shadow: 0px 0px 4px 4px rgba(255, 255, 255, 0.25) inset; border-radius: 11px"></div>
+      <div style="left: 803px; top: 45px; position: absolute; color: white; font-size: 36px; font-family: Inter; font-weight: 700; line-height: 73.01px; word-wrap: break-word">03</div>
+      <div style="left: 871px; top: 53px; position: absolute"><span style="color: white; font-size: 41px; font-family: Inter; font-weight: 900; line-height: 34px; word-wrap: break-word">INSTALA<br/></span><span style="color: white; font-size: 27px; font-family: Inter; font-weight: 500; line-height: 34px; word-wrap: break-word">Selecciona la app y toca<br/></span><span style="color: #FF3937; font-size: 27px; font-family: Inter; font-weight: 500; line-height: 34px; word-wrap: break-word">Instalar.</span></div>
+      <img style="width: 430px; height: 256px; left: -241px; top: 180px; position: absolute; border-radius: 25px" src="https://placehold.co/430x256" />
+      <img style="width: 444px; height: 256px; left: 262px; top: 180px; position: absolute; border-radius: 26px" src="https://placehold.co/444x256" />
+      <img style="width: 442px; height: 233px; left: 775px; top: 203px; position: absolute; border-radius: 25px" src="https://placehold.co/442x233" />
+      <img style="width: 643px; height: 52px; left: 674px; top: 410px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/643x52" />
+      <img style="width: 643px; height: 52px; left: 162px; top: 410px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/643x52" />
+      <img style="width: 643px; height: 52px; left: -348px; top: 410px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/643x52" />
+    </div>
+    <div style="width: 665px; height: 70px; left: 627.67px; top: 299.53px; position: absolute">
+      <div style="width: 190px; height: 69.99px; left: 0px; top: 0px; position: absolute">
+        <div style="width: 190px; height: 69.99px; left: 0px; top: 0px; position: absolute; background: rgba(202, 202, 202, 0.20); box-shadow: 0px 0px 1px white inset"></div>
+        <div style="left: 29.74px; top: 18.41px; position: absolute; color: white; font-size: 30px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">Samsung</div>
+      </div>
+      <div style="width: 76px; height: 69.99px; left: 209px; top: 0px; position: absolute">
+        <div style="width: 76px; height: 69.99px; left: 0px; top: 0px; position: absolute; background: rgba(202, 202, 202, 0.20); box-shadow: 0px 0px 1px white inset"></div>
+        <div style="left: 19.27px; top: 18.41px; position: absolute; color: white; font-size: 30px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">LG</div>
+      </div>
+      <div style="width: 171px; height: 69.99px; left: 305px; top: 0px; position: absolute">
+        <div style="width: 171px; height: 69.99px; left: 0px; top: 0px; position: absolute; background: linear-gradient(90deg, #FF5C5C 0%, #BB1919 100%); box-shadow: 0px 0px 1px white inset"></div>
+        <div style="left: 7.55px; top: 18.41px; position: absolute; color: white; font-size: 30px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">Android TV</div>
+      </div>
+      <div style="width: 171px; height: 69.99px; left: 494px; top: 0px; position: absolute">
+        <div style="width: 171px; height: 69.99px; left: 0px; top: 0px; position: absolute; background: rgba(202, 202, 202, 0.20); box-shadow: 0px 0px 1px white inset"></div>
+        <div style="left: 32.96px; top: 18.41px; position: absolute; color: white; font-size: 30px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">Hisense</div>
+      </div>
+    </div>
+    <div style="width: 434.05px; height: 72.73px; left: 742.40px; top: 929px; position: absolute">
+      <div style="left: 0px; top: 0px; position: absolute; color: #ECB8B8; font-size: 27px; font-family: Inter; font-weight: 500; line-height: 27px; word-wrap: break-word">¿Ya la instalaste? Vincula tu cuenta</div>
+      <img style="width: 20px; height: 29px; left: 206.60px; top: 43.73px; position: absolute" src="https://placehold.co/20x29" />
+    </div>
+    <div style="width: 239.82px; height: 23.67px; left: 854.04px; top: 1103px; position: absolute">
+      <div style="width: 40px; height: 2px; left: 9px; top: 8.76px; position: absolute; background: #D64746"></div>
+      <div style="left: 64.10px; top: 0px; position: absolute; color: #D64746; font-size: 20.01px; font-family: Inter; font-weight: 500; line-height: 20.01px; letter-spacing: 1.60px; word-wrap: break-word">SEGUNDO PASO</div>
+      <div style="width: 13.54px; height: 13.54px; left: 0px; top: 3.22px; position: absolute; background: #BF201F; box-shadow: 2px 3px 8px #DD6B6B inset"></div>
+    </div>
+    <div style="left: 486.61px; top: 1143.20px; position: absolute; color: white; font-size: 91.17px; font-family: Inter; font-weight: 900; line-height: 91.17px; word-wrap: break-word">VINCULA TU CUENTA</div>
+    <div style="left: 474.86px; top: 1257.79px; position: absolute; text-align: center; color: white; font-size: 24px; font-family: Inter; font-weight: 500; line-height: 43.19px; word-wrap: break-word">¿Ya tienes TV360 abierta en tu televisor? Entra con tu cuenta de una de estas dos formas:</div>
+    <div style="left: 587.50px; top: 1510.60px; position: absolute"><span style="color: white; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">En tu TV, abre TV360 y elige </span><span style="color: #FF3937; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">Iniciar sesión.</span></div>
+    <div style="left: 587.50px; top: 1583.60px; position: absolute"><span style="color: white; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">Selecciona </span><span style="color: #FF3937; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">Ingresar con número de celular</span><span style="color: white; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word"> y escribe tu número.</span></div>
+    <div style="left: 587.50px; top: 1657.29px; position: absolute"><span style="color: white; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">Te llega un </span><span style="color: #FF3937; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">código por SMS</span><span style="color: white; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">. Ingrésalo en la TV y listo.</span></div>
+    <div style="left: 540.50px; top: 1481.94px; position: absolute; color: #FF3937; font-size: 36px; font-family: Inter; font-weight: 700; line-height: 73.01px; word-wrap: break-word">1.<br/>2.<br/>3.</div>
+    <div style="left: 568.84px; top: 1425.63px; position: absolute; color: #FF3937; font-size: 35.14px; font-family: Inter; font-weight: 700; line-height: 35.14px; word-wrap: break-word">Con tu número de teléfono</div>
+    <img style="width: 43px; height: 63px; left: 496px; top: 1406.39px; position: absolute" src="https://placehold.co/43x63" />
+    <div style="left: 540.50px; top: 1826.90px; position: absolute; color: #FF3937; font-size: 36px; font-family: Inter; font-weight: 900; line-height: 73.01px; word-wrap: break-word">1.<br/>2.<br/>3.</div>
+    <div style="left: 568.84px; top: 1775.58px; position: absolute; color: #FF3937; font-size: 35.14px; font-family: Inter; font-weight: 700; line-height: 35.14px; word-wrap: break-word">Inicio rápido con QR</div>
+    <div style="left: 587.50px; top: 1856.60px; position: absolute"><span style="color: white; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">Abre TV360 en tu </span><span style="color: #FF3937; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">celular</span><span style="color: white; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word"> y entra a </span><span style="color: #FF3937; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">Perfil</span><span style="color: white; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word"> (arriba a la derecha).</span></div>
+    <div style="left: 587.50px; top: 1927.60px; position: absolute"><span style="color: white; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">Toca </span><span style="color: #FF3937; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">Smart TV / Inicio de sesión rápido.</span></div>
+    <div style="left: 587.50px; top: 2004.60px; position: absolute"><span style="color: white; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">Escanea el QR de tu televisor o escribe el </span><span style="color: #FF3937; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word">código de 6 dígitos</span><span style="color: white; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; word-wrap: break-word"> que aparece en la TV.</span></div>
+    <img style="width: 51px; height: 51px; left: 496px; top: 1768.39px; position: absolute" src="https://placehold.co/51x51" />
+    <div style="width: 969px; height: 123px; left: 477.50px; top: 2076.89px; position: absolute">
+      <div style="width: 969px; height: 123px; left: 0px; top: 0px; position: absolute; background: rgba(191, 32, 31, 0.30); outline: 1px white solid; outline-offset: -0.50px"></div>
+      <div style="left: 90.57px; top: 13.72px; position: absolute"><span style="color: #FF5453; font-size: 22px; font-family: Inter; font-weight: 500; line-height: 31px; word-wrap: break-word">Nota:</span><span style="color: #FF3937; font-size: 22px; font-family: Inter; font-weight: 500; line-height: 31px; word-wrap: break-word"> </span><span style="color: white; font-size: 22px; font-family: Inter; font-weight: 500; line-height: 31px; word-wrap: break-word">si creaste tu cuenta con correo o redes sociales, la app te pedirá un número<br/>de celular para vincular la Smart TV. Con la misma cuenta puedes estar en tu celu<br/>y tu TV a la vez.</span></div>
+      <img style="width: 53px; height: 79px; left: 18.50px; top: 10.50px; position: absolute" src="https://placehold.co/53x79" />
+    </div>
+  </div>
+  <div style="width: 1920px; height: 2632px; left: -0.33px; top: 1456px; position: absolute">
+    <div style="width: 1920px; height: 791px; left: 0px; top: 3197px; position: absolute; background: #080000"></div>
+    <div style="width: 1920px; height: 748px; left: 0px; top: 3240px; position: absolute; background: rgba(35, 0, 0, 0); outline: 1px white solid; outline-offset: -0.50px"></div>
+    <img style="width: 1928px; height: 748px; left: -8px; top: 3240px; position: absolute" src="https://placehold.co/1928x748" />
+    <div style="width: 460.22px; height: 25.69px; left: 475.01px; top: 3311.46px; position: absolute">
+      <div style="width: 40.01px; height: 2px; left: 9px; top: 10.77px; position: absolute; background: #D64746"></div>
+      <div style="left: 59.97px; top: 0px; position: absolute; color: #D64746; font-size: 20.01px; font-family: Inter; font-weight: 500; line-height: 20.01px; letter-spacing: 1.60px; word-wrap: break-word">¿POR QUÉ VERLO EN TU SMART TV?</div>
+      <div style="width: 13.54px; height: 13.55px; left: 0px; top: 5.23px; position: absolute; background: #BF201F; box-shadow: 2px 3px 8px #DD6B6B inset"></div>
+    </div>
+    <div style="left: 475.91px; top: 3350.91px; position: absolute; color: white; font-size: 54px; font-family: Inter; font-weight: 900; line-height: 54px; word-wrap: break-word">LO BUENO SE DISFRUTA EN GRANDE</div>
+    <div style="left: 475.91px; top: 3422.14px; position: absolute; color: white; font-size: 19px; font-family: Inter; font-weight: 500; line-height: 19px; word-wrap: break-word">Lo que ves en el celu se ve, y se vive, mejor en la pantalla de tu sala. Y no te cuesta nada.</div>
+    <div style="width: 930px; height: 384px; left: 496px; top: 3495px; position: absolute">
+      <div style="width: 219.93px; height: 384px; left: 0px; top: 0px; position: absolute; background: rgba(129, 49, 49, 0.30); outline: 1px #FF5453 solid; outline-offset: -0.50px"></div>
+      <img style="width: 181px; height: 181px; left: 19px; top: 24px; position: absolute" src="https://placehold.co/181x181" />
+      <div style="left: 42.48px; top: 226.52px; position: absolute; text-align: center; color: white; font-size: 25px; font-family: Inter; font-weight: 700; text-transform: uppercase; line-height: 30px; letter-spacing: 0.39px; word-wrap: break-word">Pantalla<br/>gigante</div>
+      <div style="left: 33.61px; top: 302.89px; position: absolute; text-align: center; color: #D8D8D8; font-size: 13px; font-family: Inter; font-weight: 500; line-height: 15.60px; word-wrap: break-word">Tus canales y películas<br/>en el televisor de tu sala,<br/>no en 6 pulgadas.</div>
+      <div style="width: 219.93px; height: 384px; left: 236.69px; top: 0px; position: absolute; background: rgba(129, 49, 49, 0.30); outline: 1px #FF5453 solid; outline-offset: -0.50px"></div>
+      <img style="width: 181px; height: 181px; left: 256px; top: 24px; position: absolute" src="https://placehold.co/181x181" />
+      <div style="left: 249.28px; top: 226.45px; position: absolute; text-align: center; color: white; font-size: 25px; font-family: Inter; font-weight: 700; text-transform: uppercase; line-height: 30px; letter-spacing: 0.20px; word-wrap: break-word">+200 canales<br/>gratis</div>
+      <div style="left: 255.29px; top: 302.78px; position: absolute; text-align: center; color: #D8D8D8; font-size: 13px; font-family: Inter; font-weight: 500; line-height: 15.60px; word-wrap: break-word">TV en vivo, noticias, deportes<br/>y la Cortesía de la casa,<br/>sin costo.</div>
+      <div style="width: 219.93px; height: 384px; left: 473.38px; top: 0px; position: absolute; background: rgba(129, 49, 49, 0.30); outline: 1px #FF5453 solid; outline-offset: -0.50px"></div>
+      <img style="width: 181px; height: 181px; left: 491px; top: 24px; position: absolute" src="https://placehold.co/181x181" />
+      <div style="left: 507.39px; top: 226.45px; position: absolute; text-align: center; color: white; font-size: 25px; font-family: Inter; font-weight: 700; text-transform: uppercase; line-height: 30px; letter-spacing: 0.39px; word-wrap: break-word">cualquier<br/>operador</div>
+      <div style="left: 505.61px; top: 302.78px; position: absolute; text-align: center; color: #D8D8D8; font-size: 13px; font-family: Inter; font-weight: 500; line-height: 15.60px; letter-spacing: 0.03px; word-wrap: break-word">No necesitas ser de Bitel<br/>para disfrutarlo. Es para<br/>todos los peruanos.</div>
+      <div style="width: 219.93px; height: 384px; left: 710.07px; top: 0px; position: absolute; background: rgba(129, 49, 49, 0.30); outline: 1px #FF5453 solid; outline-offset: -0.50px"></div>
+      <img style="width: 181px; height: 181px; left: 729px; top: 24px; position: absolute" src="https://placehold.co/181x181" />
+      <div style="left: 744.37px; top: 226.45px; position: absolute; text-align: center; color: white; font-size: 25px; font-family: Inter; font-weight: 700; text-transform: uppercase; line-height: 30px; letter-spacing: 0.39px; word-wrap: break-word">todas tus<br/>pantallas</div>
+      <div style="left: 736.89px; top: 302.78px; position: absolute; text-align: center; color: #D8D8D8; font-size: 13px; font-family: Inter; font-weight: 500; line-height: 15.60px; word-wrap: break-word">La misma cuenta en tu<br/>celu y tu TV a la vez. Hasta<br/>10 dispositivos.</div>
+    </div>
+  </div>
+  <div style="width: 1920px; height: 1129px; left: -0.33px; top: 5369px; position: absolute">
+    <img style="width: 1920px; height: 1052px; left: 0px; top: 75px; position: absolute" src="https://placehold.co/1920x1052" />
+    <div style="width: 756.29px; height: 101.24px; left: 494.01px; top: 171.57px; position: absolute">
+      <div style="width: 40.01px; height: 2px; left: 9px; top: 8.75px; position: absolute; background: #D64746"></div>
+      <div style="left: 59.96px; top: 0px; position: absolute; color: #D64746; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; letter-spacing: 1.60px; word-wrap: break-word">DUDAS FRECUENTES</div>
+      <div style="width: 13.54px; height: 13.52px; left: 0px; top: 3.22px; position: absolute; background: #BF201F; box-shadow: 2px 3px 8px #DD6B6B inset"></div>
+      <div style="left: 0.89px; top: 37.36px; position: absolute; color: white; font-size: 53.98px; font-family: Inter; font-weight: 900; line-height: 53.98px; word-wrap: break-word">LO QUE TODOS PREGUNTAN</div>
+    </div>
+    <div style="width: 761.09px; height: 617px; left: 493.91px; top: 327px; position: absolute">
+      <div style="width: 391.97px; height: 516.43px; left: 0px; top: 18.02px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: white; font-size: 19px; font-family: Inter; font-weight: 700; line-height: 19px; word-wrap: break-word">¿TV360 es gratis en la Smart TV?</div>
+        <div style="left: 0px; top: 125.33px; position: absolute; color: white; font-size: 19px; font-family: Inter; font-weight: 700; line-height: 19px; letter-spacing: 0.04px; word-wrap: break-word">¿En qué televisores funciona?</div>
+        <div style="left: 0px; top: 245.87px; position: absolute; color: white; font-size: 19px; font-family: Inter; font-weight: 700; line-height: 19px; letter-spacing: 0.04px; word-wrap: break-word">¿Necesito ser cliente Bitel?</div>
+        <div style="left: 0px; top: 371.80px; position: absolute; color: white; font-size: 19px; font-family: Inter; font-weight: 700; line-height: 19px; letter-spacing: 0.02px; word-wrap: break-word">¿Puedo verla en el celu y en la TV a la vez?</div>
+        <div style="left: 0px; top: 493.95px; position: absolute; color: white; font-size: 19px; font-family: Inter; font-weight: 700; line-height: 19px; word-wrap: break-word">¿Qué veo gratis?</div>
+      </div>
+      <div style="width: 18.06px; height: 530.78px; left: 735px; top: 8.52px; position: absolute">
+        <div style="left: 0px; top: 126.20px; position: absolute; color: #C74140; font-size: 30px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">-</div>
+        <div style="left: 0px; top: 250.99px; position: absolute; color: #C74140; font-size: 30px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">-</div>
+        <div style="left: 0px; top: 377.28px; position: absolute; color: #C74140; font-size: 30px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">-</div>
+        <div style="left: 0px; top: 495.28px; position: absolute; color: #C74140; font-size: 30px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">-</div>
+        <div style="left: 4px; top: 0px; position: absolute; color: #C74140; font-size: 30px; font-family: Inter; font-weight: 700; line-height: 30px; word-wrap: break-word">-</div>
+      </div>
+      <div style="width: 760px; height: 617px; left: 1.09px; top: 0px; position: absolute">
+        <div style="width: 760px; height: 1px; left: 0px; top: 0px; position: absolute; background: #D64746"></div>
+        <div style="width: 760px; height: 1px; left: 0px; top: 122px; position: absolute; background: #D64746"></div>
+        <div style="width: 760px; height: 1px; left: 0px; top: 244px; position: absolute; background: #D64746"></div>
+        <div style="width: 760px; height: 1px; left: 0px; top: 369px; position: absolute; background: #D64746"></div>
+        <div style="width: 760px; height: 1px; left: 0px; top: 493px; position: absolute; background: #D64746"></div>
+        <div style="width: 760px; height: 1px; left: 0px; top: 616px; position: absolute; background: #D64746"></div>
+      </div>
+      <div style="width: 693.49px; height: 529.75px; left: 0px; top: 57.48px; position: absolute">
+        <div style="left: 0px; top: 0px; position: absolute; color: #FFB5B5; font-size: 15px; font-family: Inter; font-weight: 500; line-height: 18px; letter-spacing: 0.01px; word-wrap: break-word">Sí. Ver TV en vivo es gratis para siempre, igual que en el celular. Solo descárgala en tu televisor<br/>y entra con tu número. No necesitas pagar nada para verla en grande.</div>
+        <div style="left: 0px; top: 123px; position: absolute; color: #FFB5B5; font-size: 15px; font-family: Inter; font-weight: 500; line-height: 18px; word-wrap: break-word">En Smart TV Samsung, LG, Android TV / Google TV, Hisense y Huawei. En los televisores Hisense<br/>ya viene preinstalada. No está disponible en televisores del 2016 o más antiguos.</div>
+        <div style="left: 0px; top: 246px; position: absolute; color: #FFB5B5; font-size: 15px; font-family: Inter; font-weight: 500; line-height: 18px; letter-spacing: 0.01px; word-wrap: break-word">No. TV360 es para todos los peruanos, sin importar tu operador. Si eres cliente postpago o fibra<br/>de Bitel, además la ves sin consumir tus megas.</div>
+        <div style="left: 0px; top: 371px; position: absolute; color: #FFB5B5; font-size: 15px; font-family: Inter; font-weight: 500; line-height: 18px; letter-spacing: 0.01px; word-wrap: break-word">Sí. Con la misma cuenta puedes estar conectado en hasta 10 dispositivos al mismo tiempo, entre<br/>celular, Smart TV, tablet y computadora.</div>
+        <div style="left: 0px; top: 494px; position: absolute; color: #FFB5B5; font-size: 15px; font-family: Inter; font-weight: 500; line-height: 18px; word-wrap: break-word">+200 canales de TV en vivo de la costa, sierra y selva, noticias, deportes, canales infantiles y la<br/>Cortesía de la casa: alrededor de 20 películas y series gratis que cambian cada mes.</div>
+      </div>
+    </div>
+  </div>
+  <div style="width: 1920px; height: 900px; left: 0px; top: 6496px; position: absolute">
+    <div style="width: 1920px; height: 900px; left: 0px; top: 0px; position: absolute; background: black"></div>
+    <div style="width: 926.43px; height: 259.51px; left: 492.90px; top: 73.49px; position: absolute">
+      <div style="width: 39.99px; height: 1.99px; left: 11.10px; top: 8.72px; position: absolute; background: #D64746"></div>
+      <div style="left: 62.05px; top: 0px; position: absolute; color: #D64746; font-size: 20px; font-family: Inter; font-weight: 500; line-height: 20px; letter-spacing: 1.60px; word-wrap: break-word">DUDAS FRECUENTES</div>
+      <div style="width: 13.53px; height: 13.47px; left: 2.11px; top: 3.21px; position: absolute; background: #BF201F; box-shadow: 2px 3px 8px #DD6B6B inset"></div>
+      <div style="left: 0px; top: 32.35px; position: absolute; color: white; font-size: 53.96px; font-family: Inter; font-weight: 900; line-height: 53.96px; word-wrap: break-word">RECIBE LO ÚLTIMO, EN TU CORREO</div>
+      <div style="left: 2.53px; top: 117.65px; position: absolute; color: white; font-size: 19px; font-family: Inter; font-weight: 500; line-height: 22.80px; word-wrap: break-word">Suscríbete a nuestro boletín y recibe lo mejor del cine, el entretenimiento y las noticias.<br/>Sin spam y con contenido de calidad.</div>
+      <div style="width: 550px; height: 70px; left: 2.10px; top: 189.51px; position: absolute; background: #202020; outline: 1px #494949 solid; outline-offset: -0.50px"></div>
+      <div style="width: 264px; height: 69.99px; left: 573.10px; top: 189.51px; position: absolute; background: linear-gradient(90deg, #FF5C5C 0%, #BB1919 100%); box-shadow: 0px 0px 1px white inset"></div>
+      <div style="left: 606.73px; top: 209.93px; position: absolute; color: white; font-size: 26px; font-family: Inter; font-weight: 500; line-height: 26px; word-wrap: break-word">Quiero recibirlo</div>
+    </div>
+  </div>
+  <div style="width: 1920px; height: 900px; left: 0px; top: 7398px; position: absolute">
+    <div style="width: 1920px; height: 900px; left: 0px; top: 0px; position: absolute; background: #2E0000"></div>
+    <div style="width: 1237px; height: 586px; left: 351px; top: 13px; position: absolute">
+      <img style="width: 1237px; height: 586px; left: 0px; top: 0px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/1237x586" />
+      <div style="left: 207.82px; top: 237.33px; position: absolute; color: #DD4443; font-size: 110.18px; font-family: Inter; font-weight: 900; line-height: 110.18px; word-wrap: break-word">PARA SIEMPRE</div>
+      <img style="width: 791px; height: 83px; left: 212px; top: 251px; position: absolute; mix-blend-mode: overlay" src="https://placehold.co/791x83" />
+      <div style="left: 148.13px; top: 119.54px; position: absolute; color: #DD4443; font-size: 110.18px; font-family: Inter; font-weight: 900; line-height: 110.18px; word-wrap: break-word">MIRA TV GRATIS,</div>
+      <img style="width: 911px; height: 102px; left: 153px; top: 133px; position: absolute; mix-blend-mode: overlay" src="https://placehold.co/911x102" />
+      <div style="left: 229.39px; top: 384.59px; position: absolute; color: white; font-size: 23px; font-family: Inter; font-weight: 500; line-height: 23px; word-wrap: break-word">Descarga TV360 hoy en tu Smart TV y no pagues nunca más por ver TV.</div>
+    </div>
+  </div>
+  <img style="width: 1871px; height: 154px; left: 24px; top: 6417px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/1871x154" />
+  <img style="width: 1871px; height: 154px; left: 24px; top: 7321px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/1871x154" />
+  <img style="width: 1871px; height: 154px; left: 23.67px; top: 5369px; position: absolute; mix-blend-mode: screen" src="https://placehold.co/1871x154" />
+  <div style="width: 1920px; height: 80px; left: 0px; top: 0px; position: absolute">
+    <div style="width: 1920px; height: 50px; left: -0.33px; top: 0px; position: absolute; background: linear-gradient(0deg, #080000 0%, #250000 100%)"></div>
+    <img style="width: 113px; height: 38px; left: 460.67px; top: 6px; position: absolute" src="https://placehold.co/113x38" />
+    <div style="width: 196px; height: 36px; left: 1245.67px; top: 7px; position: absolute; background: linear-gradient(90deg, #FF5C5C 0%, #BB1919 100%)"></div>
+    <div style="left: 1261.67px; top: 14px; position: absolute; color: white; font-size: 19.26px; font-family: Inter; font-weight: 700; line-height: 22.26px; word-wrap: break-word">Instálala en tu TV</div>
+  </div>
+</div>
+</body>
+</html>
